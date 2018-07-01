@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Quize App</string>
+    <string name="question1">1 __________ is a programming language? </string>
+    <string name="question1_choice1">French</string>
+    <string name="question1_choice2">English</string>
+    <string name="question1_choice3">Java</string>
+
+    <string name="question2">2. A _________ is a list of instructions writen in a programing language that tell a computer what to do.</string>
+
+    <string name="question3">3. _________ and _________ are hardware.</string>
+    <string name="question3_choice1">Mouse</string>
+    <string name="question3_choice2">Google Chrome</string>
+    <string name="question3_choice3">Keyboard</string>
+    <string name="question3_choice4">Firefox</string>
+
+    <string name="question4">4. Physical parts of a computer that you can see, feel and touch</string>
+
+    <string name="question5">5 _________ is an input device.</string>
+    <string name="question5_choice1">Speaker</string>
+    <string name="question5_choice2">Mouse</string>
+    <string name="question5_choice3">Printer</string>
+
+    <string name="question6">6. A malicious software program that, when executed, replicates itself by modifying other computer programs and inserting its own code.</string>
+
+    <string name="question7">7. _________ and _________ are storage devices </string>
+    <string name="question7_choice1">Monitor</string>
+    <string name="question7_choice2">projector</string>
+    <string name="question7_choice3">Hard disk </string>
+    <string name="question7_choice4">Flash disk</string>
+
+    <string name="question8">8. An input device used for typing alphabets and numbers is called ___________</string>
+
+    <string name="question9">9. ___________ is an operating system</string>
+    <string name="question9_choice1">Doors</string>
+    <string name="question9_choice2">Windows</string>
+
+    <string name="question10">10.A utility used for scanning and removing viruses from your computer is called _____________ </string>
+
+    <string name="submit_answers">Submit Answers</string>
+</resources>
